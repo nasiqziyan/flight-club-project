@@ -17,7 +17,8 @@ REST API using the 'Sheety' API.
 ![](README-images/google_sheet_examples.png)
 
 The Flight Search API reads the locations and thresholds and subsequently
-notifies the users with all the relevant details.
+notifies the users with all the relevant details — all automated
+in the main.py file.
 
 ![](README-images/email_text_notification.png)
 
